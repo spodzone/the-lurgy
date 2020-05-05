@@ -9,12 +9,12 @@ Rendered animation: [The Lurgy](https://www.facebook.com/285082981676685/posts/1
 
 Credit: fragment of the SARS-Covid-2 virus genome come from [NIH](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3)
 
-# Requirements 
+# Requirements
 
 * [Povray](http://povray.org/)
 * optionally GNU make(1).
 
-# Instructions
+# Instructions
 
 Makefile targets are self-explanatory. 
 Stills come in a choice of `tiny`, `small` or `large`. Animations (mostly simply scaling vectors by `clock`) can be `movietiny` or `movielarge`. 
